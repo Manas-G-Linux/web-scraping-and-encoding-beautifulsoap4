@@ -1,5 +1,4 @@
 # web-scraping-and-encoding-beautifulsoap4
-Here is a professional, visually appealing README.md file. You can copy this directly into a file named README.md in your project folder.
 
 🛒 Amazon Review NLP Analyzer 🤖
 
