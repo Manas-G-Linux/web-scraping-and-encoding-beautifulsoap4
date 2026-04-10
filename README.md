@@ -98,6 +98,7 @@ You will need Python 3.x and the following libraries:
 
 
 < pip install requests beautifulsoup4 pandas numpy scikit-learn >
+
 2. Running the Pipeline
 
 Simply run the main script:
