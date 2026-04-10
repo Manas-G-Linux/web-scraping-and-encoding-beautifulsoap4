@@ -96,22 +96,14 @@ tfidf_matrix.csv	Importance Matrix	Rows = Reviews; Columns = Unique Words. Value
 
 You will need Python 3.x and the following libraries:
 
-code
-Bash
-download
-content_copy
-expand_less
-pip install requests beautifulsoup4 pandas numpy scikit-learn
+
+< pip install requests beautifulsoup4 pandas numpy scikit-learn >
 2. Running the Pipeline
 
 Simply run the main script:
 
-code
-Bash
-download
-content_copy
-expand_less
 python main.py
+
 3. Flow Chart
 
 Search URL 
